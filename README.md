@@ -19,14 +19,7 @@ To install and run this project, follow these steps:
 To use the hand pose classification system, follow these instructions:
 
 1. Prepare your dataset by placing the hand pose images in the appropriate directories as specified in the project.
-2. Train the model using the provided training script:
-    ```sh
-    python train_model.py
-    ```
-3. Use the trained model to classify hand poses in new images:
-    ```sh
-    python classify_hand_pose.py --image <path_to_image>
-    ```
+2. Extract features and classify using the `hand_pose_classification.ipynb` notebook.
 
 ## Acknowledgements
 This project was developed for the Computer Vision 1 laboratory at POLITEHNICA Bucharest National University of Science and Technology to explore hand pose classification in the context of computer vision.
