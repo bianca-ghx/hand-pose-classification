@@ -1,6 +1,6 @@
 # Hand Pose Classification
 
-This project was developed to classify different hand poses using machine learning techniques. The input data consists of hand pose images, and the purpose of this project is to implement a hand pose classification system by extracting features and classifying using kNN, Logistic Regrssion, Random Forest and Support Vector Machine.
+This project was developed to classify different hand poses using machine learning techniques. The input data consists of hand pose images, and the purpose of this project is to implement a hand pose classification system by extracting features and classifying using kNN, Logistic Regression, Random Forest and Support Vector Machine.
 
 ## Installation
 To install and run this project, follow these steps:
